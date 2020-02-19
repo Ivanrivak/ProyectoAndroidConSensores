@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">KM</string>
+    <string name="correo">E-mail</string>
+    <string name="autofillMail">Introduce tu e-mail</string>
+    <string name="password">Contraseña</string>
+    <string name="password2">Repite la contraseña</string>
+    <string name="autofillPass">Introduce tu contraseña</string>
+    <string name="registrar">Registrarse</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancelar</string>
+    <string name="confirm">Confirmar</string>
+    <string name="inicio">Inicio</string>
+    <string name="buscar">Buscar</string>
+    <string name="carrito">Carrito</string>
+    <string name="user">Usuario</string>
+    <string name="salir">Salir</string>
+    <string name="home_entradas">Últimas entradas</string>
+    <string name="home_noticias">Últimas noticias</string>
+    <string name="popular">Popular</string>
+    <string name="ultimo">Ultimo</string>
+    <string name="lista">Lista</string>
+    <string name="addcarrito">Añadir al carrito</string>
+    <string name="comprar">Comprar</string>
+    <string name="valoracion">Valoración:</string>
+    <string name="autor">Autor:</string>
+    <string name="titulo">Titulo:</string>
+    <string name="volumen">Volumen:</string>
+    <string name="distribuidor">Distribuidor:</string>
+    <string name="publicacion">Publicacion:</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="precio">Precio:</string>
+</resources>

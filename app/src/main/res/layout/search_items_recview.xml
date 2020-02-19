@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:layout_margin="5dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imagenEntrada"
+        android:layout_width="90dp"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tituloEntrada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/titulo" />
+        <TextView
+            android:id="@+id/volumenEntrada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/volumen" />
+        <TextView
+            android:id="@+id/autorEntrada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/autor" />
+
+        <TextView
+            android:id="@+id/publicacionEntrada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/publicacion" />
+
+
+        <TextView
+            android:id="@+id/precioEntrada"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/precio" />
+
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:text="@string/comprar"
+                android:textSize="13dp" />
+
+            <ImageButton
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_margin="5dp"
+                android:src="@drawable/ic_action_carrito"
+                android:textSize="13dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- Colores principales de la aplicacion-->
+    <color name="kurabu_principal">#00afbb</color>
+    <color name="kurabu_principal_oscuro">#008c96</color>
+    <color name="kurabu_destacado">#00afbb</color>
+    <color name="colorgray">#808080</color>
+</resources>
